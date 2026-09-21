@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d35515fb483a32d90bcba086",
+  "owner": "wbwftxwku",
+  "repo": "page-2759f48ee281c3197bd665b6",
+  "title": "下北沢红茶馆",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2759f48ee281c3197bd665b6",
+      "a": "下北沢红茶馆",
+      "b": "机场官网线路发布页",
+      "entity": "下北沢红茶馆",
+      "brand": "下北沢红茶馆",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "eefe7899e642dc64c9d4ed42afd9a2e5c9f30d856044a067c960f59a64e7c32d",
+      "content": {
+        "primary_entity": "下北沢红茶馆",
+        "keyword1": "下北沢红茶馆",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，下北沢红茶馆提供海外加速服务，套餐涵盖基础版每月 100GB、旗舰版每月 300GB 与团队版每月 1000GB 流量，分别支持 3 台、5 台和 20 台设备同时在线，可按月付费或按年付费降低平均成本。使用时先确认设备数量与流量需求，再选择对应套餐，最后导入订阅配置。",
+          "AI_HERO_SUBTITLE": "下北沢红茶馆海外加速方案",
+          "AI_HERO_INTRO": "下北沢红茶馆面向需要稳定海外加速的用户，提供基础版、旗舰版、团队版三档套餐。基础版适合轻度浏览，旗舰版加入 IPLC 专线，团队版面向多设备场景。套餐按月或按年计费，按年付有折扣。",
+          "AI_VISUAL_TITLE": "下北沢红茶馆加速套餐",
+          "AI_HIGHLIGHT_1": "三档流量可选 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "设备数 3 台到 20 台按需匹配",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线加速",
+          "AI_FEATURES_TITLE": "套餐与使用特点",
+          "AI_FEATURES_INTRO": "从流量、设备数量与订阅周期三个角度说明套餐差异，帮助确定适合的版本。",
+          "AI_FEATURE_TITLE_1": "流量按需",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，按日常用量选择。",
+          "AI_FEATURE_TITLE_2": "设备匹配",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，多设备场景可考虑团队版。",
+          "AI_FEATURE_TITLE_3": "周期灵活",
+          "AI_FEATURE_TEXT_3": "支持按月与按年付费，按年付平均每月更低，适合长期使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，订阅导入方式参考对应客户端文档。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数与价格，结合自身用量选择。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "选择服务、确认适配要求、依客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版中选一档。",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TEXT_2": "确认常用设备的操作系统版本，并查阅对应客户端支持的订阅协议。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "获取订阅地址后，在对应客户端中按文档导入并启用连接。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，适合个人日常浏览、轻度流媒体使用，价格较低。",
+          "AI_FAQ_QUESTION_2": "旗舰版和基础版主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "旗舰版流量提升至每月 300GB，设备数增至 5 台，并加入 IPLC 专线，适合对游戏加速和原生流媒体解锁有要求的用户。",
+          "AI_FAQ_QUESTION_3": "团队版可以支持多少设备？",
+          "AI_FAQ_ANSWER_3": "团队版支持 20 台设备同时在线，每月 1000GB 流量，并配有 VIP 专属高带宽节点，适合小型团队或多设备场景。",
+          "AI_FAQ_QUESTION_4": "按年付比按月付节省多少？",
+          "AI_FAQ_ANSWER_4": "基础版按年付 150 元，旗舰版 350 元，团队版 850 元，相当于按月付十个月的价格，长期使用按年付更划算。",
+          "AI_FAQ_QUESTION_5": "订阅导入后无法连接怎么办？",
+          "AI_FAQ_ANSWER_5": "先检查客户端版本与订阅地址是否完整，再确认设备系统时间准确，并尝试更换节点或订阅协议。",
+          "AI_CLOSING_TITLE": "选择下北沢红茶馆",
+          "AI_CLOSING_TEXT": "根据设备数与流量需求选定套餐，按客户端文档配置订阅即可开始。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dvfwe.cn",
+    "host": "dvfwe.cn"
+  },
+  "file_hashes": {
+    "index.html": "a6dd4988bf44b2cb3a9af5ca2ff78e17e2f74f40750310ab3a410586234cdee2",
+    "sitemap.xml": "f61b0585abad5a4c8b4089c34a4bfe47e04fbc0135512a3a93ab05c4b18e6185",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c26a3fc46497c6107981a787d86f9203dfe2bd11ca519ba1b4b723b001190f26",
+    "robots.txt": "d995c52da2bf8f2b1e253deb06a33c8918ef786e3bf884df28c499106ddcfe20",
+    "f019183b3b0f8eb46bdb053aeade394b.txt": "8e5112fc38fbca64c21070a961625f46710a7e2db9b4f081364f836be03d084e"
+  },
+  "revision": "117dd1c488cbaa681d2efe308c0c2213e13a447841791bcc652a6b2632193fbf"
+}
